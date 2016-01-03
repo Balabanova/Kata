@@ -1,0 +1,14 @@
+c:\users\flashpc\documents\visual studio 2015\Projects\Kata1_palindrome\Kata1_palindrome\bin\Debug\Kata1_palindrome.dll
+c:\users\flashpc\documents\visual studio 2015\Projects\Kata1_palindrome\Kata1_palindrome\bin\Debug\Kata1_palindrome.pdb
+c:\users\flashpc\documents\visual studio 2015\Projects\Kata1_palindrome\Kata1_palindrome\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\flashpc\documents\visual studio 2015\Projects\Kata1_palindrome\Kata1_palindrome\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\flashpc\documents\visual studio 2015\Projects\Kata1_palindrome\Kata1_palindrome\obj\Debug\Kata1_palindrome.csprojResolveAssemblyReference.cache
+c:\users\flashpc\documents\visual studio 2015\Projects\Kata1_palindrome\Kata1_palindrome\obj\Debug\Kata1_palindrome.dll
+c:\users\flashpc\documents\visual studio 2015\Projects\Kata1_palindrome\Kata1_palindrome\obj\Debug\Kata1_palindrome.pdb
+C:\Users\FlashPC\Documents\Visual Studio 2015\Projects\Kata\Kata1_palindrome\Kata1_palindrome\bin\Debug\Kata1_palindrome.dll
+C:\Users\FlashPC\Documents\Visual Studio 2015\Projects\Kata\Kata1_palindrome\Kata1_palindrome\bin\Debug\Kata1_palindrome.pdb
+C:\Users\FlashPC\Documents\Visual Studio 2015\Projects\Kata\Kata1_palindrome\Kata1_palindrome\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\FlashPC\Documents\Visual Studio 2015\Projects\Kata\Kata1_palindrome\Kata1_palindrome\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\FlashPC\Documents\Visual Studio 2015\Projects\Kata\Kata1_palindrome\Kata1_palindrome\obj\Debug\Kata1_palindrome.csprojResolveAssemblyReference.cache
+C:\Users\FlashPC\Documents\Visual Studio 2015\Projects\Kata\Kata1_palindrome\Kata1_palindrome\obj\Debug\Kata1_palindrome.dll
+C:\Users\FlashPC\Documents\Visual Studio 2015\Projects\Kata\Kata1_palindrome\Kata1_palindrome\obj\Debug\Kata1_palindrome.pdb
